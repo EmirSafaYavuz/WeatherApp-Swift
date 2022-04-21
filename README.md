@@ -24,7 +24,4 @@ Made a beautiful, dark-mode enabled weather app. You'll be able to check the wea
 * Learn to use Core Location to get the current location from the phone GPS. 
 
 ```
-
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
